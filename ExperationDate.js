@@ -1,5 +1,5 @@
 
-var ExperationDate = "05/19/2022"
+var ExperationDate = "05-19-2022"
 $.ajax({
     url: "/Account/SetExperation",
     data: {
